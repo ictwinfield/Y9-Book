@@ -1,0 +1,42 @@
+\documentclass{article}
+
+\usepackage[latin1]{inputenc}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows}
+\begin{document}
+\pagestyle{empty}
+
+
+% Define block styles
+\tikzstyle{decision} = [diamond, draw, fill=blue!20, 
+    text width=4.5em, text badly centered, node distance=3cm, inner sep=0pt]
+\tikzstyle{block} = [rectangle, draw, fill=blue!20, 
+    text width=5em, text centered, rounded corners, minimum height=4em]
+\tikzstyle{line} = [draw, -latex']
+\tikzstyle{cloud} = [draw, ellipse,fill=red!20, node distance=3cm,
+    minimum height=2em]
+    
+\begin{tikzpicture}[node distance = 3cm, auto]
+	% Place nodes
+	\node [block] (start) {Start with the right-hand col};
+	\node [block, below of=start] (totCol) {Total right most col};
+	\node [decision, below of=totCol] (toCarry) {Is it $\geq 10?$};
+	\node [block, left of=toCarry] (move) {move one col left};
+	\node [block, right of=toCarry] (carry) {Write 10's in next col};
+	\node [block, below of=toCarry] (units) {Write units below col};
+	\node [decision, below of=units] (finished) {Is the next col empty?};
+	\node [block, below of=finished] (stop) {Stop};
+	% Draw lines
+	\path [line] (start) -- (totCol);
+	\path [line] (totCol) -- (toCarry);
+	\path [line] (toCarry) -- node {yes} (carry);
+	\path [line] (carry) |- (units);
+	\path [line] (toCarry) -- node {no} (units);
+	\path [line] (units) -- (finished);
+	\path [line] (finished) -| node [near end] {no} (move);
+	\path [line] (move) |- (totCol);
+	\path [line] (finished) -- node {yes} (stop);
+\end{tikzpicture}
+
+
+\end{document}

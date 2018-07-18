@@ -1,0 +1,33 @@
+\documentclass[12pt]{book}
+\usepackage[utf8]{inputenc}
+\usepackage{multicol}
+\usepackage{amsthm}
+\usepackage{graphicx}
+\usepackage{ulem}
+\usepackage{wasysym}
+\usepackage{array}
+\usepackage{enumerate}
+
+\theoremstyle{definition}
+\newtheorem{exmp}{Example}[section]
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\title{Year 9 Mathematics}
+\author{Mark Winfield}
+\date{\today}
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+\include{Algebra1}
+\include{Number1}
+\include{Algebra2}
+\include{Number2}
+\include{Algebra3}
+\include{Measurement}
+\include{Algebra4}
+\include{Transformations}
+\include{Number3}
+\include{Geometry}
+
+\end{document}

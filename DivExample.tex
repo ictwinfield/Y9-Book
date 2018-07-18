@@ -1,0 +1,40 @@
+First we need to set up our calculation area.  The answer will go above the line.
+\begin{center}
+\begin{tabular}{c  C{0.4cm} C{0.4cm} C{0.4cm}}
+\cline{2-4}
+\multicolumn{1}{c|}
+5 & 3 & 7 & 5 \\
+\end{tabular}
+\end{center}
+
+Now we check to see how many 5's go into 3, the value in the first column.  The answer is 0 so that goes on the answer line and the remainder of 3 goes over to the next column. This changes the 7 to 37.
+\begin{center}
+\begin{tabular}{c  C{0.4cm} C{0.4cm} C{0.4cm}}
+ & 0 &  & \\
+\cline{2-4}
+\multicolumn{1}{c|}
+5 & 3 & $^3$7 & 5 \\
+\end{tabular}
+\end{center}
+Now we check how many 5's go into 37, the value now in the second column.  The answer is 7 so that goes on the answer line and the remainder of 2 goes over to the next column.  This changes the 5 to 25.
+
+\begin{center}
+\begin{tabular}{c  C{0.4cm} C{0.4cm} C{0.4cm}}
+ & 0 & 7 & \\
+\cline{2-4}
+\multicolumn{1}{c|}
+5 & 3 & $^3$7 & $^2$5 \\
+\end{tabular}
+\end{center}
+
+Finally we check to see how many 5's go into 25.  The answer is 5 and that goes on the answer line.  There is no remainder.
+\begin{center}
+\begin{tabular}{c  C{0.4cm} C{0.4cm} C{0.4cm}}
+ & 0 & 7 & 5\\
+\cline{2-4}
+\multicolumn{1}{c|}
+5 & 3 & $^3$8 & $^2$5 \\
+\end{tabular}
+\end{center}
+
+So $375 \div 5 = 75$
