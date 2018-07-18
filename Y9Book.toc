@@ -91,14 +91,14 @@
 \contentsline {subsection}{\numberline {5.1.6}Exercise}{65}
 \contentsline {subsection}{\numberline {5.1.7}Special Sequences}{66}
 \contentsline {subsubsection}{Odd numbers}{66}
-\contentsline {subsubsection}{Even numbers}{66}
-\contentsline {subsubsection}{Square numbers}{66}
-\contentsline {subsubsection}{Triangular numbers}{66}
+\contentsline {subsubsection}{Even numbers}{67}
+\contentsline {subsubsection}{Square numbers}{67}
+\contentsline {subsubsection}{Triangular numbers}{67}
 \contentsline {subsection}{\numberline {5.1.8}Exercise}{67}
-\contentsline {subsection}{\numberline {5.1.9}Solving for a sequence}{67}
+\contentsline {subsection}{\numberline {5.1.9}Solving for a sequence}{68}
 \contentsline {subsection}{\numberline {5.1.10}Exercise}{68}
 \contentsline {subsection}{\numberline {5.1.11}Sequences in other situations}{68}
-\contentsline {subsection}{\numberline {5.1.12}Exercise}{68}
+\contentsline {subsection}{\numberline {5.1.12}Exercise}{69}
 \contentsline {chapter}{\numberline {6}Measurement}{71}
 \contentsline {section}{\numberline {6.1}Units}{71}
 \contentsline {subsection}{\numberline {6.1.1}Exercise}{72}
