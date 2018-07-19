@@ -146,17 +146,18 @@
 \contentsline {subsection}{\numberline {8.2.1}Exercise}{102}
 \contentsline {subsection}{\numberline {8.2.2}Exercise}{103}
 \contentsline {section}{\numberline {8.3}Reflections}{104}
-\contentsline {section}{\numberline {8.4}Rotations}{104}
-\contentsline {section}{\numberline {8.5}Combinations}{104}
-\contentsline {chapter}{\numberline {9}Number 3}{105}
-\contentsline {section}{\numberline {9.1}Speical Sequences}{105}
-\contentsline {subsection}{\numberline {9.1.1}Square Numbers}{105}
-\contentsline {subsection}{\numberline {9.1.2}Triangular numbers}{105}
-\contentsline {subsection}{\numberline {9.1.3}Investigations}{105}
-\contentsline {section}{\numberline {9.2}Primes}{105}
-\contentsline {subsection}{\numberline {9.2.1}Prime factor form}{105}
-\contentsline {subsection}{\numberline {9.2.2}Infinite primes}{105}
-\contentsline {chapter}{\numberline {10}Geometry}{107}
-\contentsline {section}{\numberline {10.1}Lines}{107}
-\contentsline {section}{\numberline {10.2}Parallel Lines}{107}
-\contentsline {section}{\numberline {10.3}Triangles}{107}
+\contentsline {subsubsection}{Exercise}{106}
+\contentsline {section}{\numberline {8.4}Rotations}{107}
+\contentsline {section}{\numberline {8.5}Combinations}{107}
+\contentsline {chapter}{\numberline {9}Number 3}{109}
+\contentsline {section}{\numberline {9.1}Speical Sequences}{109}
+\contentsline {subsection}{\numberline {9.1.1}Square Numbers}{109}
+\contentsline {subsection}{\numberline {9.1.2}Triangular numbers}{109}
+\contentsline {subsection}{\numberline {9.1.3}Investigations}{109}
+\contentsline {section}{\numberline {9.2}Primes}{109}
+\contentsline {subsection}{\numberline {9.2.1}Prime factor form}{109}
+\contentsline {subsection}{\numberline {9.2.2}Infinite primes}{109}
+\contentsline {chapter}{\numberline {10}Geometry}{111}
+\contentsline {section}{\numberline {10.1}Lines}{111}
+\contentsline {section}{\numberline {10.2}Parallel Lines}{111}
+\contentsline {section}{\numberline {10.3}Triangles}{111}
