@@ -162,12 +162,21 @@
 \contentsline {chapter}{\numberline {9}Number 3}{115}
 \contentsline {section}{\numberline {9.1}Speical Sequences}{115}
 \contentsline {subsection}{\numberline {9.1.1}Square Numbers}{115}
-\contentsline {subsection}{\numberline {9.1.2}Triangular numbers}{115}
-\contentsline {subsection}{\numberline {9.1.3}Investigations}{115}
-\contentsline {section}{\numberline {9.2}Primes}{115}
-\contentsline {subsection}{\numberline {9.2.1}Prime factor form}{115}
-\contentsline {subsection}{\numberline {9.2.2}Infinite primes}{115}
-\contentsline {chapter}{\numberline {10}Geometry}{117}
-\contentsline {section}{\numberline {10.1}Lines}{117}
-\contentsline {section}{\numberline {10.2}Parallel Lines}{117}
-\contentsline {section}{\numberline {10.3}Triangles}{117}
+\contentsline {subsubsection}{Exercise}{116}
+\contentsline {subsubsection}{Exercise}{116}
+\contentsline {subsubsection}{Square Numbers Formula}{117}
+\contentsline {subsubsection}{Exercise}{117}
+\contentsline {subsubsection}{Exercise}{117}
+\contentsline {subsection}{\numberline {9.1.2}Triangular numbers}{118}
+\contentsline {subsubsection}{Exercise}{118}
+\contentsline {subsubsection}{Formulae for genterating triangular numbers}{118}
+\contentsline {subsubsection}{Exercise}{119}
+\contentsline {subsubsection}{Vector Motor Racing}{119}
+\contentsline {subsection}{\numberline {9.1.3}Investigations}{122}
+\contentsline {section}{\numberline {9.2}Primes}{122}
+\contentsline {subsection}{\numberline {9.2.1}Prime factor form}{122}
+\contentsline {subsection}{\numberline {9.2.2}Infinite primes}{122}
+\contentsline {chapter}{\numberline {10}Geometry}{123}
+\contentsline {section}{\numberline {10.1}Lines}{123}
+\contentsline {section}{\numberline {10.2}Parallel Lines}{123}
+\contentsline {section}{\numberline {10.3}Triangles}{123}
